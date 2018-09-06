@@ -5,6 +5,6 @@
 
 
 ## __contact info__ 
-#  Email Genneth.leaph1473@gmail.com
-#  Phone number 210 - 601 - 0290
+###  Email Genneth.leaph1473@gmail.com
+###  Phone number 210 - 601 - 0290
 
