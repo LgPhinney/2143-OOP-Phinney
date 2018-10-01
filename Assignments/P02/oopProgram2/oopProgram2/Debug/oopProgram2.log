@@ -1,0 +1,3 @@
+﻿  Source.cpp
+f:\oopprogram2\oopprogram2\myvector.h(195): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  oopProgram2.vcxproj -> F:\oopProgram2\Debug\oopProgram2.exe
